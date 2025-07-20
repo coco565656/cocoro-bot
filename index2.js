@@ -15,8 +15,8 @@ const axios = require('axios');
 const http = require('http');
 
 // APIキーと検索エンジンIDを設定
-const GOOGLE_API_KEY = 'AIzaSyCnuZF6DgOsEAHxb4tbnpq5tNfAfbGI4II';
-const SEARCH_ENGINE_ID = 'c225849679954465d';
+const GOOGLE_API_KEY = '';
+const SEARCH_ENGINE_ID = '';
 
 const PREFIX = '~~';
 
